@@ -1,5 +1,5 @@
 # latsol_modul2_sisop
-#soal_1
+# soal_1
 ```c
 bilaeev@asus:~/latsol_modul2_sisop$ cd Soal_1
 bilaeev@asus:~/latsol_modul2_sisop/Soal_1$ nano backup.c
